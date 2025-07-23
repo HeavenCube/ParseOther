@@ -10,7 +10,7 @@ public class ParseOtherExpansion extends PlaceholderExpansion {
 
   @Override
   public String getAuthor() {
-    return "cj89898";
+    return "cj89898, NoltoxGit";
   }
 
   @Override
@@ -20,7 +20,7 @@ public class ParseOtherExpansion extends PlaceholderExpansion {
 
   @Override
   public String getVersion() {
-    return "2.0.0";
+    return "2.0.1-HeavenCube";
   }
 
   @SuppressWarnings("deprecation")
